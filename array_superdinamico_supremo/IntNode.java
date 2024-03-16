@@ -11,6 +11,7 @@ public class IntNode extends Node {
         this.primo = primo;
     }
 
+  
     public int get() {
         return primo;
     }

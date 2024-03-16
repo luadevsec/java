@@ -12,7 +12,8 @@ public class ByteNode extends Node {
         this.primo = primo;
     }
 
-    public Byte get() {
+
+    public byte get() {
         return primo;
     }
 }
